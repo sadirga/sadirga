@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there, I'm Satrio 👋
+[![Instagram Follow](https://img.shields.io/instagram/follow/codeSTACKr?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## I'm an aspiring Data Scientist and Muay Thai enthusiast.
+
+
+[![Sadirga's github stats](https://github-readme-stats.vercel.app/api?username=sadirga)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **sadirga/sadirga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
