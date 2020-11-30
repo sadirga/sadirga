@@ -13,13 +13,13 @@
 - ⚡ Fun fact: I'm a Muay Thai and Badminton enthusiast
 
 
-### Connect With Me  
+### Connect With Me:
 
 
-[<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-  
-  
+[<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]  
+
+
 
 ### Languages and Tools:
 
