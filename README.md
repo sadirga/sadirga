@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Doing more Projects
 - ⚡ Fun fact: I'm a Muay Thai and Badminton enthusiast
-<br>
+<br />
 
 ### Connect With Me  
 
@@ -21,7 +21,7 @@
 [<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br>
+<br />
 ### Languages and Tools:
 
 
