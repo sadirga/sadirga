@@ -11,9 +11,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Doing more Projects
 - ⚡ Fun fact: I'm a Muay Thai and Badminton enthusiast
+<br>
 
+### Connect With Me  
+<br>
 [<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sadirga/)
+[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
@@ -21,9 +24,8 @@
 <!--[website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr -->
-### Connect With Me  
-<br>
+[youtube]: https://youtube.com/codeSTACKr 
+-->
 [instagram]: https://instagram.com/sadirga
 [linkedin]: https://linkedin.com/in/sadirga
 <!--
