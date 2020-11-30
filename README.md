@@ -15,14 +15,14 @@
 
 ### Connect With Me  
 <br>
-[<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [instagram]
 
 
 
-
-[instagram]: https://instagram.com/sadirga
-[linkedin]: https://linkedin.com/in/sadirga
+[instagram]: https://www.instagram.com/sadirga/
+[linkedin]: https://www.linkedin.com/in/sadirga/
 <!--
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
