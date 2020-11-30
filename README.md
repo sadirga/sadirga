@@ -11,3 +11,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Doing more Projects
 - ⚡ Fun fact: I'm a Muay Thai and Badminton enthusiast
+
+[<img align="left" alt="sadirga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sadirga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
