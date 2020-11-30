@@ -3,8 +3,13 @@
 
 ## I'm an aspiring Data Scientist, currently enrolled in Purwadhika Digital School.
 
-
-![Sadirga's github stats](https://github-readme-stats.vercel.app/api?username=sadirga&show_icons=true&hide=contribs,prs,issues)
+<details>
+  
+  <summary>:zap: GitHub Stats</summary>
+  
+  ![Sadirga's github stats](https://github-readme-stats.vercel.app/api?username=sadirga&show_icons=true&hide=contribs,prs,issues)
+  
+</details>
 
 
 - 🔭 I’m currently working on my Final Project: [Melbourne Housing Market](https://github.com/sadirga/Final-Project-Melbourne-House-Price)
