@@ -22,6 +22,8 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr -->
+### Connect With Me  
+<br>
 [instagram]: https://instagram.com/sadirga
 [linkedin]: https://linkedin.com/in/sadirga
 <!--
