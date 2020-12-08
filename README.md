@@ -7,7 +7,7 @@
   
   <summary>:zap: GitHub Stats</summary>
   
-  ![Sadirga's github stats](https://github-readme-stats.vercel.app/api?username=sadirga&show_icons=true&theme=merko)
+  ![Sadirga's github stats](https://github-readme-stats.sadirga.vercel.app/api?username=sadirga&show_icons=true&theme=merko&hide=stars,commits,prs,issues,contribs)
   
 </details>
 
