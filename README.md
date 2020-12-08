@@ -7,7 +7,7 @@
   
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="sadirga's GitHub Stats" src="https://github-readme-stats.sadirga.vercel.app/api?username=sadirga&show_icons=true&hide_border=true,contribs,prs,issues)" />
+  <img align="left" alt="sadirga's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadirga&show_icons=true&hide_border=contribs,prs,issues&theme=merko)" />
   
 </details>
 
