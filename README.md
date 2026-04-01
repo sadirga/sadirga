@@ -14,7 +14,7 @@
 
 - 🔭 My Final Project: [Melbourne Housing Market](https://github.com/sadirga/Final-Project-Melbourne-House-Price)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Doing more Projects
+- 🥅 2026 Goals: Doing more Automation Projects
 - ⚡ Fun fact: I'm a Muay Thai and Badminton enthusiast
 
 
